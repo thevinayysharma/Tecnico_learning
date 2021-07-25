@@ -13,7 +13,10 @@
 > -  [Dan Abramov](https://overreacted.io/the-elements-of-ui-engineering/) -- the background maths behind UI engineeering. Followed by little bit [High performance android](https://www.oreilly.com/library/view/high-performance-android/9781491913994/ch04.html).
 >
 > - [Swanand](https://speakerdeck.com/swanandp/the-well-rounded-engineer?) -- "The well rounded engineer", found a practical path to be HoE.
-
+___
+> Book:
+> - High performance Javascript.
+> - Simplifying JS
 
 <!-- More read
 *
