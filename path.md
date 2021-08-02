@@ -1,4 +1,4 @@
-#### AUGUST 2021
+### JULY 2021
 
 * Listened to Netlflix UI Engineering [Talks](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA).
 -- _getting interested towards Netflix engineering, Uber engineering still my fav._
@@ -15,15 +15,24 @@
 > - [Swanand](https://speakerdeck.com/swanandp/the-well-rounded-engineer?) -- "The well rounded engineer", found a practical path to become HoE. Walking the talk.
 >
 > - [Understanding JS WEB](https://www.youtube.com/watch?v=aZqhRICne_M) followed by [Web Manifesto](https://extensiblewebmanifesto.org/)  -- A step towards understanding web ecosystem.
-___
 
 > Book
 > - High performance Javascript. [55/232]
 > - Simplifying JS []
-___
 
-### Building
+#### Building
 * Learned Web Scraping, Build a scraper using node.
+
+---
+
+### AUGUST 2021
+
+* To Read 30 Code Repo's from Github. [1/30] 
+
+> Book
+> - High performance Javascript. [65/232]
+> - Simplifying JS [1/320]
+
 
 
 <!-- More read
