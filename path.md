@@ -29,7 +29,7 @@ Hola! You can find what else I'm learning here: [docs link](https://docs.google.
 
 ### AUGUST 2021
 
-* Code Reading: _To Read 30 Code Repo's from Github. [1/30]_
+* Code Reading: _To Read 30 Code Repo's from Github. [5/30]_ [Insights](https://docs.google.com/document/d/10IF331HoBMCrRnwa2R44EdcXk5tncqVpRBDLEPOyhOM/edit?usp=sharing)
 <br><br/>
 
 > Keynote Learnings
@@ -40,12 +40,17 @@ Hola! You can find what else I'm learning here: [docs link](https://docs.google.
 > - High performance Javascript. [71/232]
 > - Simplifying JS [26/320]
 
-#### Building
-* ..
-
 #### Misc.
 * Snowden Movie, Web accessibility module. 
+ 
+### SEPTEMBER 2021
 
+* Started Working in [Huawei](https://www.huawei.com/en/)- Mine first Job, grabbed the place with my smart answers and knowledge.
+<br><br/>
 
+> Keynote Learnings
+> - Google [Technical writing Course](https://developers.google.com/tech-writing): gonna improve my writing skills.
 
+#### Misc.
+* Started writing a Sci-fi book in data domain.
  
