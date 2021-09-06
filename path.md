@@ -42,6 +42,8 @@ Hola! You can find what else I'm learning here: [docs link](https://docs.google.
 
 #### Misc.
 * Snowden Movie, Web accessibility module. 
+
+---
  
 ### SEPTEMBER 2021
 
