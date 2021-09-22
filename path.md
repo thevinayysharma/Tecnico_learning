@@ -51,8 +51,8 @@ Hola! You can find what else I'm learning here: [docs link](https://docs.google.
 <br><br/>
 
 > Keynote Learnings
-> - Google [Technical writing Course](https://developers.google.com/tech-writing): gonna improve my writing skills.
+> - Google [Technical writing Course](https://developers.google.com/tech-writing) -- improvised my writing skills in a span of 2 weeks.
 
 #### Misc.
-* Started writing a Sci-fi book in data domain.
+* Started writing a Sci-fi book in data domain, started solving DSA [problems](https://github.com/sadanandpai/dsa-for-front-end-dev).
  
