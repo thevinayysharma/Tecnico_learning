@@ -47,7 +47,7 @@ Hola! You can find what else I'm learning here: [docs link](https://docs.google.
  
 ### SEPTEMBER 2021
 
-* Started Working in [Huawei](https://www.huawei.com/en/)- Mine first Job, grabbed the place with my smart answers and knowledge.
+* Started Working in [Huawei](https://www.huawei.com/en/)- Mine first Job.
 <br><br/>
 
 > Keynote Learnings
@@ -56,3 +56,11 @@ Hola! You can find what else I'm learning here: [docs link](https://docs.google.
 #### Misc.
 * Started writing a Sci-fi book in data domain, started solving DSA [problems](https://github.com/sadanandpai/dsa-for-front-end-dev).
  
+---
+
+### OCTOBER 2021
+
+* Starting #100daysofSystemDesign Challenge.
+
+> Keynote Learnings
+> - Udacity's Machine Learning Foundations [Course](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) -- to be done before 11 Oct.
