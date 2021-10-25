@@ -63,4 +63,8 @@ Hola! You can find what else I'm learning here: [docs link](https://docs.google.
 * Starting #100daysofSystemDesign Challenge.
 
 > Keynote Learnings
-> - Udacity's Machine Learning Foundations [Course](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) -- to be done before 11 Oct.
+> - Udacity's Machine Learning Foundations [Course](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) 
+> - Learned Python [Course](https://frontendmasters.com/courses/intermediate-python/) -- learned from basics to Intermediate in a span of 2 weeks
+
+#### Misc.
+Diving and developing some real-life algorithms
