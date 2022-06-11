@@ -5,7 +5,7 @@ Hola! You can find what else I'm reading here: [docs link](https://docs.google.c
 - Learning Typescript. Starting with [jack youtube channel](https://www.youtube.com/c/JackHerrington/playlists) and typescript docs.
 - Built a simplifed testing framework.
 - Exploring Code of Nature Book. Learned Q-tree implementation.
-- 
+- Basics [Regex](https://towardsdatascience.com/novice-to-advanced-regex-in-nine-minutes-or-less-6af45a1df8c8).
 
 ----
 
