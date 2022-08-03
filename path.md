@@ -9,7 +9,15 @@ Hola! You can find what else I'm reading here: [docs link](https://docs.google.c
 - Learnings in Deck.gl, typescript ecosystem, DSA questions, building coding assessments, [website blog](https://vinaysharma.netlify.app/blog.html), improvized techical profiles, became intermediate in Javscript.
 ----
 ### July
-- Goals: To become dp expert & dsa(intermediate), write 3-4 technical blogs, learn full stack engineering, build 1 side project & launch, learn internal as planned ...
+- Initiated side-project.
+- Learned Docker, Kubernetes concepts [theoretically]
+- cleared crossover (devops and aws), triplebyte(frontend), informatica[handson], ramp, and other interview assesments.
+- Got rejected in 2 interviews. Reaccessed scenarios.
+- Blind75 covered.
+
+### August
+
+- Practice 4hr programming dp work, code read- react+redux, learn node.sj + chrome devtoos/debugging.+ create visibility, cover dsa. 
 ---- 
 <br/>
 
